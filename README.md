@@ -17,3 +17,14 @@ Implements Markov Chain Monte Carlo (MCMC) methods to fit a non-perturbative pho
 - NumPy
 - SciPy
 - Matplotlib
+
+## References
+
+### Hiding a Light Vector Boson from Terrestrial Experiments: A Chargephobic Dark Photon 
+Haidar Esseili and Graham D. Kribs
+
+### The Dark Photon
+Marco Fabbrichesi, Emidio Gabrielli, Gaia Lanfranchi
+
+### Serendipity in dark photon searches
+Philip Ilten, Yotam Soreq, Mike Williams, and Wei Xued
